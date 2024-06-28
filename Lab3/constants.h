@@ -1,0 +1,3 @@
+#pragma once
+#define MAX_LONG 9223372036854775807LL
+#define MIN_LONG (-(MAX_LONG)-1LL)
